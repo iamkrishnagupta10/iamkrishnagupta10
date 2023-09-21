@@ -24,6 +24,9 @@ Hello, I'm Krishna Gupta, a seasoned technology professional with over 15 years 
 ### [AI PDF Chat](https://github.com/iamkrishnagupta10/aipdf-chat)
 AI PDF Chat leverages OpenAI's GPT-4 to offer a seamless chat experience across multiple domains, including CPA, Real Estate, and the Canadian Housing market. It features PDF integration for real-time answers.
 
+### [Tables AI](https://tablesai.streamlit.app/)
+1️⃣ Upload your Excel files. 2️⃣ Optionally, upload a settings file to restore tag selections. 3️⃣ Select tags to combine data. 4️⃣ Save your settings for future use. 5️⃣ Export the combined table as a CSV file.
+
 ### [Data AI](https://github.com/iamkrishnagupta10/Data-ai)
 Data AI is a web application that enables users to upload multiple CSV or XLSM files, select specific columns, and download a combined CSV file. It's hosted on Streamlit and is perfect for quick data manipulations.
 
