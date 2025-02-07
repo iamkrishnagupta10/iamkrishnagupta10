@@ -2,7 +2,9 @@
 
 ## Overview
 
-Hello, I'm Krishna Gupta, a seasoned technology professional with over 15 years of experience in the industry. I specialize in project management, software development, and data science. I have a proven track record of managing remote teams and delivering high-quality projects on time and within budget.
+Hello, I'm Krishna Gupta, a technology entrepreneur, open-source advocate, and AI innovator based in Vancouver, Canada. With over 15 years of experience in artificial intelligence, machine learning, blockchain, and cloud computing, I specialize in building deep-tech solutions that push the boundaries of automation, generative AI, and decentralized technologies. 
+
+As the founder of **Misty Interactive Studios** and **Empire Code Foundation**, I focus on developing AI-powered applications, open-source UI components, and cutting-edge cloud solutions. My work spans from real-time AI assistants and Next.js components to AI-driven SaaS products and hardware innovation. Having been in the industry before the rise of ChatGPT, I have a strong foundation in neural networks, distributed computing, and advanced deep learning architectures.
 
 📍 **Location**: Vancouver, Canada  
 📧 **Contact**: [iamkrishnagupta10@gmail.com](mailto:iamkrishnagupta10@gmail.com)
@@ -11,35 +13,64 @@ Hello, I'm Krishna Gupta, a seasoned technology professional with over 15 years 
 
 ## Expertise
 
-- **Project Management**: Managed developers and designers from India in remote settings.
-- **Software Development**: Proficient in Python, Next.js, and Visual Studio Code.
-- **Data Science**: Experienced in building data science apps using Streamlit, Langchain OpenAI, and Hugging Face.
-- **Cloud Computing**: Hands-on experience with Vercel and Google Cloud.
-- **AI & Automation**: Utilize AI to code and develop products rapidly.
+- **Artificial Intelligence & Deep Learning**: Extensive expertise in LLMs, reinforcement learning, NLP, GANs, and AI-driven automation.
+- **Machine Learning & Neural Networks**: Proficient in CNNs, RNNs, Transformers, Autoencoders, and graph neural networks.
+- **Blockchain & Web3**: Deep understanding of smart contracts, decentralized applications (dApps), and zero-knowledge proofs.
+- **Full-Stack Development**: Mastery of Next.js, TypeScript, Python, and scalable AI architecture.
+- **Cloud & DevOps**: Expertise in Google Cloud, Vercel, containerized AI deployments with Docker and Kubernetes.
+- **Open-Source AI UI Components**: Founder of **Empire UI**, an advanced component library for AI-powered applications in Next.js.
+- **AI Hardware & Embedded Systems**: Designing a Raspberry Pi 5-based AI hardware device and an AI-powered desktop robot.
+- **High-Performance Computing**: Optimizing deep learning models with CUDA, TensorRT, and distributed training on multi-GPU clusters.
 
 ---
 
-## Projects
+## Featured Projects
 
-### [AI PDF Chat](https://github.com/iamkrishnagupta10/aipdf-chat)
-AI PDF Chat leverages OpenAI's GPT-4 to offer a seamless chat experience across multiple domains, including CPA, Real Estate, and the Canadian Housing market. It features PDF integration for real-time answers.
+### 🚀 [Empire UI Library](https://github.com/EmpireCodeFoundation/Empire-UI)  
+An open-source UI component library built for AI applications in Next.js. Designed with a space-themed aesthetic inspired by *Dune* and *Loki*, it includes buttons, modals, data visualization components, and more.
 
-### [Tables AI](https://tablesai.streamlit.app/)
-1️⃣ Upload your Excel files. 2️⃣ Optionally, upload a settings file to restore tag selections. 3️⃣ Select tags to combine data. 4️⃣ Save your settings for future use. 5️⃣ Export the combined table as a CSV file.
+### 🛰️ [EMPIRE IDE](https://github.com/iamkrishnagupta10/Empire-IDE) *(In Progress)*  
+A Next.js-based AI IDE inspired by Cursor IDE, integrating AI-powered code suggestions, automation, and **v0.dev**-powered UI components.
 
-### [Data AI](https://github.com/iamkrishnagupta10/Data-ai)
-Data AI is a web application that enables users to upload multiple CSV or XLSM files, select specific columns, and download a combined CSV file. It's hosted on Streamlit and is perfect for quick data manipulations.
+### 🤖 [AI PDF Chat](https://github.com/iamkrishnagupta10/aipdf-chat)  
+An AI chatbot that integrates OpenAI's GPT-4 with PDF processing to provide domain-specific insights in real estate, finance, and legal sectors.
+
+### 🍽️ [Cravli](https://cravli.com) *(Upcoming)*  
+An AI-powered meal planning SaaS that generates personalized meal plans and recipes, integrating dietitian insights and user health data.
+
+### 🎮 **Game Boy-Inspired AI Hardware** *(Prototype)*  
+A Raspberry Pi-powered AI handheld device with interchangeable **LLM cartridges**, inspired by retro gaming design. 
+
+### 🎨 [AI GitHub Skyline Generator](https://github.com/iamkrishnagupta10/github-skyline) *(Upcoming SaaS)*  
+A web app using GitHub's gh-skyline API to generate **3D visualizations** of users’ GitHub contributions, allowing downloads and 3D-printed merch.
+
+### 🏋️ [Vangoat Clothing](https://vangoat.com)  
+A streetwear brand selling hoodies, windbreakers, and joggers with **AI-powered product marketing**.
+
+### 🎙️ [AI Voice Clone & YouTube Content](https://www.youtube.com/@iamkrishnagupta10)  
+Creating **AI-generated voiceovers** in Hindi using Eleven Labs for YouTube content.
+
+### 🌌 [TheMisty.com](https://themistry.com) *(Upcoming)*  
+A central AI-powered command hub for all projects under Misty Interactive Studios, built with Next.js and a **NASA-inspired UI**.
 
 ---
 
-## Education
+## Achievements & Contributions
 
-- **BSc in Arts and Technology**
+- **Founded Misty Interactive Studios & Empire Code Foundation** – Developing AI-powered products, open-source tools, and SaaS applications.
+- **Hired & Managed Remote AI Developers** – Leading a distributed team across India, working on Next.js AI components and cloud projects.
+- **Open-Source Contributions** – Building and maintaining Empire UI, an **AI-focused component library** for Next.js.
+- **AI SaaS Development** – Launched multiple **AI-driven SaaS products**, including Cravli (meal planning) and AI PDF Chat.
+- **Hackathon Organizer** – Leading an IIT Delhi hackathon where **700 students contribute AI components**.
+- **AI Hardware Innovation** – Designing a **Raspberry Pi-based AI handheld device** with modular **LLM cartridges**.
+- **Deep Learning Research & Development** – Pioneering AI model optimizations using **quantization, pruning, and transformer distillation**.
+- **Blockchain & Web3 Development** – Designing **decentralized AI models** and **smart contract automation** for scalable AI applications.
 
 ---
 
 ## Open for Opportunities
 
-I am currently open to job opportunities and collaborations. Feel free to reach out to me via [GitHub](https://github.com/iamkrishnagupta10) or [Email](mailto:iamkrishnagupta10@gmail.com).
+I am always looking for collaborations, AI-driven projects, and investment opportunities in **AI SaaS, Web3, and AI hardware**. Let’s build the future together!  
 
----
+📩 **Contact**: [iamkrishnagupta10@gmail.com](mailto:iamkrishnagupta10@gmail.com)  
+🌐 **GitHub**: [iamkrishnagupta10](https://github.com/iamkrishnagupta10)
