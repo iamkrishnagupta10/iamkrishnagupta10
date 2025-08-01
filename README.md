@@ -9,7 +9,7 @@ As the founder of **Misty Interactive Studios** and **Empire Code Foundation**, 
 📍 **Location**: Vancouver, Canada  
 📧 **Contact**: [iamkrishnagupta10@gmail.com](mailto:iamkrishnagupta10@gmail.com)
 
-[![GEAMC Verified Professional – krishna@nonilion.com](https://www.geamc.com/api/badge/employee/CP-ORGG5Q0WZ)](https://www.geamc.com/certificates/employee/CP-ORGG5Q0WZ)
+(https://www.geamc.com/api/badge/employee/CP-ORGG5Q0WZ)](https://www.geamc.com/certificates/employee/CP-ORGG5Q0WZ)
 
 
 ---
