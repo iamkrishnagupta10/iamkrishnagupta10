@@ -2,7 +2,7 @@
 
 ## Overview
 
-Hello, I'm Krishna Gupta, a technology entrepreneur, open-source advocate, and AI innovator based in Vancouver, Canada. With over 15 years of experience in artificial intelligence, machine learning, blockchain, and cloud computing, I specialize in building deep-tech solutions that push the boundaries of automation, generative AI, and decentralized technologies. 
+Hello, I'm Krishna Gupta, a technology entrepreneur, open-source advocate, and AI innovator based in Vancouver, Canada. With over 17 years of experience in artificial intelligence, machine learning, blockchain, and cloud computing, I specialize in building deep-tech solutions that push the boundaries of automation, generative AI, and decentralized technologies. 
 
 As the founder of **Misty Interactive Studios** and **Empire Code Foundation**, I focus on developing AI-powered applications, open-source UI components, and cutting-edge cloud solutions. My work spans from real-time AI assistants and Next.js components to AI-driven SaaS products and hardware innovation. Having been in the industry before the rise of ChatGPT, I have a strong foundation in neural networks, distributed computing, and advanced deep learning architectures.
 
